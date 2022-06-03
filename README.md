@@ -1,1 +1,5 @@
-# Bayesian-Computing-Newton-Raphson-Method-Expectation-Maximization-Algorithm-Metropolis-Algorithm-metroplos-Hashting-Algorithm
+# Bayesian-Computing
+# Newton-Raphson-Method
+# Expectation-Maximization-Algorithm
+# Metropolis-Algorithm
+# Metropolis-Hashting-Algorithm
